@@ -1,4 +1,4 @@
-# portafolio
+# trodriguez
 **Objetivo general:** 
 Comunicar visualmente mis proyectos y habilidades aprendidas a lo largo de la carrera.
 
