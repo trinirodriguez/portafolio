@@ -1,8 +1,9 @@
-# portafolio
+# trodriguez.cl
 **Objetivo general:** 
 Comunicar visualmente mis proyectos y habilidades aprendidas a lo largo de la carrera.
 
-**Usuarios extremos**
+**Para quiénes**
+La siguiente propuesta se dirige a los siguientes usuarios:
 
 *Buen extremo:* 
 
@@ -25,25 +26,23 @@ Marcela/Patricia
 50 años (pero se ve más vieja de lo que es)
 - Huele a crema nivea
 - Señora corporativa
-- Trabaja en una oficina boomer y ve temas judiciales
+- Trabaja en una oficina boomer
 - En la oficina tienen computadores mas o menos viejos por que solo lo usan para excel y word.
 - Cuando ve a una persona con jeans rotos cree que es divertida si pregunta si se cayó. 
 - No entiende las tendencias de hoy día, ella está pegada en el 2010 y cree que esta muy jovial por eso.
 - Siempre le da acidez
 
-**Usuarios promedio**
-
-*Promedio 1:*
-
-*Promedio 2:*
+**Usuario promedio**
 
 Andrea
 30 años
 - Milenial que intenta ser cool
 - Quiere hacer cosas más innovadoras o arriesgadas pero le cuesta no ser tan cuadrada.
-- Una mujer corporativa que trabaja en una startup en un sector lleno de oficinas parecidas.
-- Es muy correcta y va vestida un poco formal a la oficina pero se nota que hace un esfuerzo por hacerlo más casual. Por ejemplo usa jeans pitillos (millenial) pero también se pone un blazer al mismo tiempo.
-- Gasta su sueldo en hacerse las uñas y el Starbucks.
+- Una mujer corporativa que trabaja en una oficina de diseño muy buena.
+- Es muy correcta y va vestida un poco formal a la oficina pero se nota que hace un esfuerzo por hacerlo más casual.
+- La oficina o es l vida para ella, para ese tipo de cosas es más relajada, se podría decir que la oficia es flexible en los temas "formales".
+- Necesita contratar diseñadores nuevos que aporten creatividad a la oficina, pero no quiere gastar tanto tiempo revisando portafolios que no aporten es si mismos a comunicar las habilidades.
+- Quiere sorprenderse y encontrar alguien que no le genere dudas en cuanto a habilidades, creatividad y motivación.
 
 ## Antecedentes
 
@@ -56,4 +55,5 @@ Andrea
 [https://www.nathansmith.design/?ref=godly] Cuando el cursor pasa sobre algún texto que contiene un vínculo, las letras se desordenan generando un juego tipográfico que llama la atención invitando a hacer click. Esto se hizo para destacar, su número, mail e instagram (o sea, su contacto). 
 
 [https://locomotive.ca/en?ref=godly] La presentación de proyectos en esta página logra hacer una adelanto interesante antes de hacer click para revisarlo completo. Las letras del título se fragmentan en el medio para dejar ver una imágen del contenido de cada proyecto.
+
 [https://offficestud.io/?ref=godly] Es interesante qe los usuarios puedan recorrer los proyectos de forma autónoma, moviendo (en este caso) los objetos del estudio.
