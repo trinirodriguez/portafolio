@@ -7,29 +7,29 @@ Comunicar visualmente mis proyectos y habilidades aprendidas a lo largo de la ca
 *Buen extremo:* 
 
 Ana
-28
-Tiene una oficina de diseño nueva (hace unos 5 años)
-Trabaja con pura gente joven
-La oficina tiene un enfoque en la creatividad.
-Aun que sea la jefa no se siente como una, le gusta que el trabajo y las decisiones se tomen de forma colaborativa.
-Tienen clientes que permiten libertad creativa a la hora de realizar encargos
-Ya tiene un sistema de trabajo más establecido
-El horario es muy flexible.
-Hay computadores con pantallas grandes y buena resolución.
-Tiene redes sociales y las sabe usar bien, pero al mismo tiempo no es una milenial que lo sobre usa.
-Pasa mucho tiempo en el celular, probablemente contesta correos desde ahí.
+28 años
+- Tiene una oficina de diseño nueva (hace unos 5 años)
+- Trabaja con pura gente joven
+- La oficina tiene un enfoque en la creatividad.
+- Aun que sea la jefa no se siente como una, le gusta que el trabajo y las decisiones se tomen de forma colaborativa.
+- Tienen clientes que permiten libertad creativa a la hora de realizar encargos
+- Ya tiene un sistema de trabajo más establecido
+- El horario es muy flexible.
+- Hay computadores con pantallas grandes y buena resolución.
+- Tiene redes sociales y las sabe usar bien, pero al mismo tiempo no es una milenial que lo sobre usa.
+- Pasa mucho tiempo en el celular, probablemente contesta correos desde ahí.
 
-*Mal extramo:*
+*Mal extremo:*
 
-Marcela/Patricia (nombres de señora fome)
-Tiene 50 años pero se ve más vieja de lo que es
-Huele a crema nivea
-Señora corporativa
-Trabaja en una oficina boomer y ve temas judiciales
-En la oficina tienen computadores mas o menos viejos por que solo lo usan para excel y word.
-Cuando ve a una persona con jeans rotos cree que es divertida si pregunta si se cayó. 
-No entiende las tendencias de hoy día, ella está pegada en el 2010 y cree que esta muy jovial por eso.
-Siempre le da acidez
+Marcela/Patricia
+50 años (pero se ve más vieja de lo que es)
+- Huele a crema nivea
+- Señora corporativa
+- Trabaja en una oficina boomer y ve temas judiciales
+- En la oficina tienen computadores mas o menos viejos por que solo lo usan para excel y word.
+- Cuando ve a una persona con jeans rotos cree que es divertida si pregunta si se cayó. 
+- No entiende las tendencias de hoy día, ella está pegada en el 2010 y cree que esta muy jovial por eso.
+- Siempre le da acidez
 
 **Usuarios promedio**
 
@@ -37,13 +37,13 @@ Siempre le da acidez
 
 *Promedio 2:*
 
-Andera
+Andrea
 30 años
-Milenial que intenta ser cool
-Quiere hacer cosas más innovadoras o arriesgadas pero le cuesta no ser tan cuadrada.
-Una mujer corporativa que trabaja en una startup en un sector lleno de oficinas parecidas.
-Es muy correcta y va vestida un poco formal a la oficina pero se nota que hace un esfuerzo por hacerlo más casual. Por ejemplo usa jeans pitillos (millenial) pero también se pone un blazer al mismo tiempo.
-Gasta su sueldo en hacerse las uñas y el Starbucks.
+- Milenial que intenta ser cool
+- Quiere hacer cosas más innovadoras o arriesgadas pero le cuesta no ser tan cuadrada.
+- Una mujer corporativa que trabaja en una startup en un sector lleno de oficinas parecidas.
+- Es muy correcta y va vestida un poco formal a la oficina pero se nota que hace un esfuerzo por hacerlo más casual. Por ejemplo usa jeans pitillos (millenial) pero también se pone un blazer al mismo tiempo.
+- Gasta su sueldo en hacerse las uñas y el Starbucks.
 
 ## Antecedentes
 
